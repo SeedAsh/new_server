@@ -1,0 +1,2 @@
+curl https://raw.githubusercontent.com/SeedAsh/new_server/master/ubuntu-18.04 -o sourcelist.sh &&sudo chmod 775 sourcelist.sh &&sudo ./sourcelist.sh
+
